@@ -1,4 +1,4 @@
-module armanvp/repo
+module github.com/armanvp/repo
 
 go 1.23.4
 
